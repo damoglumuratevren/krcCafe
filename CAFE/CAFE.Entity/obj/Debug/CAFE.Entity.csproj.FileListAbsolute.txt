@@ -1,0 +1,12 @@
+D:\_1_Kampus365\cafe\CaFeV2\CAFE\CAFE.Entity\bin\Debug\CAFE.Entity.dll.config
+D:\_1_Kampus365\cafe\CaFeV2\CAFE\CAFE.Entity\bin\Debug\CAFE.Entity.dll
+D:\_1_Kampus365\cafe\CaFeV2\CAFE\CAFE.Entity\bin\Debug\CAFE.Entity.pdb
+D:\_1_Kampus365\cafe\CaFeV2\CAFE\CAFE.Entity\bin\Debug\EntityFramework.dll
+D:\_1_Kampus365\cafe\CaFeV2\CAFE\CAFE.Entity\bin\Debug\EntityFramework.SqlServer.dll
+D:\_1_Kampus365\cafe\CaFeV2\CAFE\CAFE.Entity\bin\Debug\EntityFramework.xml
+D:\_1_Kampus365\cafe\CaFeV2\CAFE\CAFE.Entity\bin\Debug\EntityFramework.SqlServer.xml
+D:\_1_Kampus365\cafe\CaFeV2\CAFE\CAFE.Entity\obj\Debug\CAFE.Entity.csproj.AssemblyReference.cache
+D:\_1_Kampus365\cafe\CaFeV2\CAFE\CAFE.Entity\obj\Debug\CAFE.Entity.csproj.CoreCompileInputs.cache
+D:\_1_Kampus365\cafe\CaFeV2\CAFE\CAFE.Entity\obj\Debug\CAFE.Entity.csproj.CopyComplete
+D:\_1_Kampus365\cafe\CaFeV2\CAFE\CAFE.Entity\obj\Debug\CAFE.Entity.dll
+D:\_1_Kampus365\cafe\CaFeV2\CAFE\CAFE.Entity\obj\Debug\CAFE.Entity.pdb

@@ -1,0 +1,24 @@
+﻿@model CAFE.Entity.Concrete.CategoryEn.Category
+@{
+    ViewBag.Title = "EditCategory";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Kategori Güncelle</h2>
+@using (Html.BeginForm("EditCategory", "AdminCategory", FormMethod.Post))
+{
+<div class="form-group">
+    @Html.Label("Kategori Id")
+    @Html.TextBoxFor(x => x.CategoryId, new { @class = "form-control" })
+    @Html.ValidationMessageFor(x => x.CategoryId)
+    <br />
+    @Html.Label("Kategori Adı")
+    @Html.TextBoxFor(x => x.CategoryName, new { @class = "form-control" })
+    @Html.ValidationMessageFor(x => x.CategoryName)
+    <br />
+    <br />
+    <button class="btn btn-info">Güncelle</button>
+
+
+</div>
+}

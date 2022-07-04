@@ -1,0 +1,15 @@
+D:\_1_Kampus365\cafe\CaFeV2\CAFE\CAFE.DataAxcess\obj\Debug\CAFE.DataAxcess.csproj.AssemblyReference.cache
+D:\_1_Kampus365\cafe\CaFeV2\CAFE\CAFE.DataAxcess\obj\Debug\CAFE.DataAxcess.csproj.CoreCompileInputs.cache
+D:\_1_Kampus365\cafe\CaFeV2\CAFE\CAFE.DataAxcess\bin\Debug\CAFE.DataAxcess.dll.config
+D:\_1_Kampus365\cafe\CaFeV2\CAFE\CAFE.DataAxcess\bin\Debug\CAFE.DataAxcess.dll
+D:\_1_Kampus365\cafe\CaFeV2\CAFE\CAFE.DataAxcess\bin\Debug\CAFE.DataAxcess.pdb
+D:\_1_Kampus365\cafe\CaFeV2\CAFE\CAFE.DataAxcess\bin\Debug\CAFE.Entity.dll
+D:\_1_Kampus365\cafe\CaFeV2\CAFE\CAFE.DataAxcess\bin\Debug\EntityFramework.dll
+D:\_1_Kampus365\cafe\CaFeV2\CAFE\CAFE.DataAxcess\bin\Debug\EntityFramework.SqlServer.dll
+D:\_1_Kampus365\cafe\CaFeV2\CAFE\CAFE.DataAxcess\bin\Debug\CAFE.Entity.pdb
+D:\_1_Kampus365\cafe\CaFeV2\CAFE\CAFE.DataAxcess\bin\Debug\CAFE.Entity.dll.config
+D:\_1_Kampus365\cafe\CaFeV2\CAFE\CAFE.DataAxcess\bin\Debug\EntityFramework.xml
+D:\_1_Kampus365\cafe\CaFeV2\CAFE\CAFE.DataAxcess\bin\Debug\EntityFramework.SqlServer.xml
+D:\_1_Kampus365\cafe\CaFeV2\CAFE\CAFE.DataAxcess\obj\Debug\CAFE.DataAxcess.csproj.CopyComplete
+D:\_1_Kampus365\cafe\CaFeV2\CAFE\CAFE.DataAxcess\obj\Debug\CAFE.DataAxcess.dll
+D:\_1_Kampus365\cafe\CaFeV2\CAFE\CAFE.DataAxcess\obj\Debug\CAFE.DataAxcess.pdb
